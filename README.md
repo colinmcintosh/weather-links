@@ -45,6 +45,7 @@ All sites should be free and don't require a login unless otherwise specified.
 ## Camera Feeds
 - [Caltrans CCTV Map](https://cwwp2.dot.ca.gov/vm/iframemap.htm)
 - [CastroCam](https://castrocam.net/hd/)
+- [Dolores Park (DoloCam)](https://www.dolocam.com/)
 
 ## Downloads
 - [GRLevel3](http://www.grlevelx.com/grlevel3_2/) (Windows) **(Paid)** - Level III Radar
