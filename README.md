@@ -15,12 +15,13 @@ All sites should be free and don't require a login unless otherwise specified.
 - [Storm Prediction Center (SPC) Forecast](https://www.spc.noaa.gov/products/outlook/day1otlk.html)
 - [SPC Current Mesoscale Discussions](https://www.spc.noaa.gov/products/md/)
 - [National Hurricane Center (NHC) Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5) (Atlantic hurricane season is June to Novemeber)
-- [OpenSnow (Paid)](https://opensnow.com/dailysnow)
+- [OpenSnow](https://opensnow.com/dailysnow) **(Paid)**
 
 ## Radar
 ### Mosaic
 - [NWS National Radar Mosaic](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJuYXRpb25hbCIsImNlbnRlciI6Wy05Ni4xMTMsMzkuMTY2XSwiem9vbSI6NSwibGF5ZXIiOiJjcmVmX3FjZCIsInRyYW5zcGFyZW50Ijp0cnVlLCJhbGVydHNPdmVybGF5Ijp0cnVlfSwiYmFzZSI6InN0YW5kYXJkIiwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6dHJ1ZX0%3D#/)
 - [WeatherUnderground WunderMap](https://www.wunderground.com/wundermap?zoom=4&radar=1&wxstn=0)
+- [AllisonHouse](https://maps.allisonhouse.com/) **(Paid)**
 
 ### Level III Data
 - [College of DuPage (CoD) Composite Radar - Localized](https://weather.cod.edu/satrad/?parms=local-Tahoe-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
@@ -29,6 +30,9 @@ All sites should be free and don't require a login unless otherwise specified.
 
 ### Level II Data
 - [Weathernerds](https://www.weathernerds.org/radar/rad.html?&initsite=KMUX&initradtype=ref&initcscheme=undefined&initimdimx=1016&initimdimy=782&initrange=39.231450220000:-124.503484140000:35.079002380000:-119.293404380000&initloop=False&initnframes=10&initwarnings=On&initinterstates=On&initbackground=On&initlightning16=Off&initlightning17=Off)
+
+## Satellite
+- [RAMMB/CIRA SLIDER](https://rammb-slider.cira.colostate.edu/)
 
 ## Forecast Models
 - [HRRR-NCEP (Operational/Current)](https://rapidrefresh.noaa.gov/hrrr/HRRR/Welcome.cgi?dsKey=hrrr_ncep_jet&domain=z1)
@@ -41,3 +45,9 @@ All sites should be free and don't require a login unless otherwise specified.
 ## Camera Feeds
 - [Caltrans CCTV Map](https://cwwp2.dot.ca.gov/vm/iframemap.htm)
 - [CastroCam](https://castrocam.net/hd/)
+
+## Downloads
+- [GRLevel3](http://www.grlevelx.com/grlevel3_2/) (Windows) **(Paid)** - Level III Radar
+- [GR2Analyst](http://www.grlevelx.com/gr2analyst_2) (Windows) **(Paid)** - Level II Radar
+- [GREarth](http://www.grlevelx.com/grearth/) (Windows) **(Paid)** - Mosaic Radar
+- [RadarScope](https://play.google.com/store/apps/details?id=com.basevelocity.radarscope) (Android) **(Paid)** - Level II/III Radar
