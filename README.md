@@ -50,6 +50,10 @@ All sites should be free and don't require a login unless otherwise specified.
 - [HRRR-NCEP (Operational/Current)](https://rapidrefresh.noaa.gov/hrrr/HRRR/Welcome.cgi?dsKey=hrrr_ncep_jet&domain=z1)
 - [HRRRX (Experimental/Future)](https://rapidrefresh.noaa.gov/hrrr/HRRR/Welcome.cgi?dsKey=hrrr_jet&domain=z1)
 - [HRRR-Smoke (Experimental/Future)](https://rapidrefresh.noaa.gov/hrrr/HRRRsmoke/Welcome.cgi?dsKey=hrrr_smoke_jet&domain=t4)
+- [RAP](https://rapidrefresh.noaa.gov/RAP/Welcome.cgi?dsKey=rap_jet&domain=conus)
+
+## Lightning
+- [Blitzortung](https://map.blitzortung.org/)
 
 ## Air Quality
 - [PurpleAir](https://www.purpleair.com/map?opt=1/i/mAQI/a0/cC1&select=64383#12.67/37.7723/-122.43994)
