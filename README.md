@@ -52,7 +52,8 @@ All sites should be free and don't require a login unless otherwise specified.
 - [HRRR-Smoke (Experimental/Future)](https://rapidrefresh.noaa.gov/hrrr/HRRRsmoke/Welcome.cgi?dsKey=hrrr_smoke_jet&domain=t4)
 - [RAP](https://rapidrefresh.noaa.gov/RAP/Welcome.cgi?dsKey=rap_jet&domain=conus)
 - [NWS Model Guidance](https://mag.ncep.noaa.gov/model-guidance-model-area.php) (All NWS Models)
-- [Weather.US Model Viewer](https://weather.us/model-charts/conus-hd) (NAM, HRRR, ICON, GFS, ECMWF)
+- [College of DuPage Model Viewer](https://weather.cod.edu/forecast/) (RAP, NAM, HRRR, GEM, GFS, GEFS)
+- [Weathernerds Model Viewer](https://www.weathernerds.org/home.html) (Canadian, ECENS, ECMWF, GFS, HRRR, HWRF, HMON, ICON, NAM, RAP, WRF-ARW)
 
 ## Lightning
 - [Blitzortung](https://map.blitzortung.org/)
