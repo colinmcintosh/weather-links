@@ -5,6 +5,7 @@ Some of these links are localized to areas of interest for me but most are able 
 All sites should be free and don't require a login unless otherwise specified.
 
 ## Education
+- [How to Read Surface Weather Maps](https://www.weather.gov/jetstream/wxmaps)
 - [Weather Prediction Education and Resources (Jeff Haby)](http://www.theweatherprediction.com/)
 - [MetEd](https://www.meted.ucar.edu/training_detail.php)
 - [Dual-Pol Radar Decision Aid Flipchart](http://www.wdtb.noaa.gov/courses/dualpol/Outreach/DualPol-Flipchart.pdf)
@@ -16,6 +17,12 @@ All sites should be free and don't require a login unless otherwise specified.
 - [SPC Current Mesoscale Discussions](https://www.spc.noaa.gov/products/md/)
 - [National Hurricane Center (NHC) Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5) (Atlantic hurricane season is June to Novemeber)
 - [OpenSnow](https://opensnow.com/dailysnow) **(Paid)**
+
+## Surface Maps
+- [NOAA National Forecast Charts](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php) [[GIF]](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif) [[PDF]](https://www.wpc.ncep.noaa.gov/noaa/noaad1.pdf)
+- [NOAA Current Surface Map](https://www.wpc.ncep.noaa.gov/html/sfc-zoom.php)
+- [NWS Current Surface Maps](https://www.weather.gov/oun/sfcmaps)
+- [Ocean Prediction Center Unified Surface Analysis](https://ocean.weather.gov/unified_analysis.php)
 
 ## Radar
 ### Mosaic
@@ -46,6 +53,9 @@ All sites should be free and don't require a login unless otherwise specified.
 - [Caltrans CCTV Map](https://cwwp2.dot.ca.gov/vm/iframemap.htm)
 - [CastroCam](https://castrocam.net/hd/)
 - [Dolores Park (DoloCam)](https://www.dolocam.com/)
+
+## Marine
+- [NOAA Tide Predictions](https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290)
 
 ## Downloads
 - [GRLevel3](http://www.grlevelx.com/grlevel3_2/) (Windows) **(Paid)** - Level III Radar
