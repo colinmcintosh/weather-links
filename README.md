@@ -12,12 +12,12 @@ All sites should be free and don't require a login unless otherwise specified.
 - [Dual-Polarization Radar Principles and System Operations](https://training.weather.gov/wdtd/courses/dualpol/documents/DualPolRadarPrinciples.pdf)
 
 ## Discussions & Forecasts
-- [National Weather Service (NWS) Area Forecast Discussion](https://www.wrh.noaa.gov/total_forecast/getprod.php?new&prod=XXXAFDMTR&wfo=mtr)
+- [NWS Area Forecast Discussion](https://www.wrh.noaa.gov/total_forecast/getprod.php?new&prod=XXXAFDMTR&wfo=mtr)
 - [NWS Zone Forecast](https://www.wrh.noaa.gov/mtr/versprod.php?pil=ZFP&sid=MTR)
-- [Climate Prediction Center (CPC) Outlook](https://www.cpc.ncep.noaa.gov/)
-- [Storm Prediction Center (SPC) Forecast](https://www.spc.noaa.gov/products/outlook/day1otlk.html)
+- [CPC Outlook](https://www.cpc.ncep.noaa.gov/)
+- [SPC Forecast](https://www.spc.noaa.gov/products/outlook/day1otlk.html)
 - [SPC Current Mesoscale Discussions](https://www.spc.noaa.gov/products/md/)
-- [National Hurricane Center (NHC) Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5) (Atlantic hurricane season is June to Novemeber)
+- [NHC Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5) (Atlantic hurricane season is June to Novemeber)
 - [OpenSnow](https://opensnow.com/dailysnow) **(Paid)**
 
 ## Surface Maps
@@ -33,16 +33,16 @@ All sites should be free and don't require a login unless otherwise specified.
 - [AllisonHouse](https://maps.allisonhouse.com/) **(Paid)**
 
 ### Level III Data
-- [College of DuPage (CoD) Composite Radar - Localized](https://weather.cod.edu/satrad/?parms=local-Tahoe-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
-- [CoD Composite Radar - Sub-Regional](https://weather.cod.edu/satrad/?parms=subregional-SanFran-comp_radar-48-0-100-1&checked=counties-map&colorbar=undefined)
-- [CoD NEXLAB Dual-Pol Radar](https://weather.cod.edu/satrad/nexrad/?parms=MUX-N0Q-1-24-100-usa-rad)
+- [College of DuPage Composite Radar - Localized](https://weather.cod.edu/satrad/?parms=local-Tahoe-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
+- [College of DuPage Composite Radar - Sub-Regional](https://weather.cod.edu/satrad/?parms=subregional-SanFran-comp_radar-48-0-100-1&checked=counties-map&colorbar=undefined)
+- [College of DuPage NEXLAB Dual-Pol Radar](https://weather.cod.edu/satrad/nexrad/?parms=MUX-N0Q-1-24-100-usa-rad)
 
 ### Level II Data
 - [Weathernerds](https://www.weathernerds.org/radar/rad.html?&initsite=KMUX&initradtype=ref&initcscheme=undefined&initimdimx=1016&initimdimy=782&initrange=39.231450220000:-124.503484140000:35.079002380000:-119.293404380000&initloop=False&initnframes=10&initwarnings=On&initinterstates=On&initbackground=On&initlightning16=Off&initlightning17=Off)
 
 ## Satellite
 - [RAMMB/CIRA SLIDER](https://rammb-slider.cira.colostate.edu/)
-- [Latest GOES Imagery](https://www.star.nesdis.noaa.gov/GOES/index.php)
+- [NOAA GOES Latest Imagery](https://www.star.nesdis.noaa.gov/GOES/index.php)
 - [NHC Latest Satellite Imagery](https://www.nhc.noaa.gov/satellite.php)
 - [NASA Worldview](https://worldview.earthdata.nasa.gov/?v=-125.90494646571905,35.44708071161813,-115.5279995774611,40.70446356867694)
 
@@ -67,3 +67,16 @@ All sites should be free and don't require a login unless otherwise specified.
 - [GR2Analyst](http://www.grlevelx.com/gr2analyst_2) (Windows) **(Paid)** - Level II Radar
 - [GREarth](http://www.grlevelx.com/grearth/) (Windows) **(Paid)** - Mosaic Radar
 - [RadarScope](https://play.google.com/store/apps/details?id=com.basevelocity.radarscope) (Android) **(Paid)** - Level II/III Radar
+
+## Acronyms
+- CPC = Climate Prediction Center
+- GOES = Geostationary Operational Environmental Satellite
+- GR = Gibson Ridge
+- HRRR = High-Resolution Rapid Refresh
+- NASA = National Aeronautics and Space Administration
+- NCEP = National Centers for Environmental Prediction
+- NHC = National Hurricane Center
+- NOAA = National Oceanic and Atmospheric Administration
+- NWS = National Weather Service
+- OPC = Ocean Prediction Center
+- SPC = Storm Prediction Center
