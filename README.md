@@ -14,13 +14,14 @@ All sites should be free and don't require a login unless otherwise specified.
 ## Discussions & Forecasts
 - [National Weather Service (NWS) Area Forecast Discussion](https://www.wrh.noaa.gov/total_forecast/getprod.php?new&prod=XXXAFDMTR&wfo=mtr)
 - [NWS Zone Forecast](https://www.wrh.noaa.gov/mtr/versprod.php?pil=ZFP&sid=MTR)
+- [Climate Prediction Center (CPC) Outlook](https://www.cpc.ncep.noaa.gov/)
 - [Storm Prediction Center (SPC) Forecast](https://www.spc.noaa.gov/products/outlook/day1otlk.html)
 - [SPC Current Mesoscale Discussions](https://www.spc.noaa.gov/products/md/)
 - [National Hurricane Center (NHC) Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5) (Atlantic hurricane season is June to Novemeber)
 - [OpenSnow](https://opensnow.com/dailysnow) **(Paid)**
 
 ## Surface Maps
-- [NOAA National Forecast Charts](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php) [[GIF]](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif) [[PDF]](https://www.wpc.ncep.noaa.gov/noaa/noaad1.pdf)
+- [NOAA National Forecast Charts](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php) [[GIF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif)] [[PDF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.pdf)]
 - [NOAA Current Surface Map](https://www.wpc.ncep.noaa.gov/html/sfc-zoom.php)
 - [NWS Current Surface Maps](https://www.weather.gov/oun/sfcmaps)
 - [Ocean Prediction Center Unified Surface Analysis](https://ocean.weather.gov/unified_analysis.php)
