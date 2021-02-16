@@ -69,6 +69,9 @@ All sites should be free and don't require a login unless otherwise specified.
 ## Marine
 - [NOAA Tide Predictions](https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290)
 
+## Sun
+- [NOAA Solar Calculator](https://www.esrl.noaa.gov/gmd/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2021) (Sunrise & Sunset)
+
 ## Downloads
 - [GRLevel3](http://www.grlevelx.com/grlevel3_2/) (Windows) **(Paid)** - Level III Radar
 - [GR2Analyst](http://www.grlevelx.com/gr2analyst_2) (Windows) **(Paid)** - Level II Radar
