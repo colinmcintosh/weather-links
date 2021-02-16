@@ -19,6 +19,7 @@ All sites should be free and don't require a login unless otherwise specified.
 - [SPC Current Mesoscale Discussions](https://www.spc.noaa.gov/products/md/)
 - [NHC Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5) (Atlantic hurricane season is June to Novemeber)
 - [OpenSnow](https://opensnow.com/dailysnow) **(Paid)**
+- [Forecast Lab YouTube](https://www.youtube.com/channel/UCA6mm30VIccQaYjABLaQ6Eg)
 
 ## Surface Maps
 - [NOAA National Forecast Charts](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php) [[GIF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif)] [[PDF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.pdf)]
