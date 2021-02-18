@@ -26,6 +26,7 @@ All sites should be free and don't require a login unless otherwise specified.
 - [NOAA Current Surface Map](https://www.wpc.ncep.noaa.gov/html/sfc-zoom.php)
 - [NWS Current Surface Maps](https://www.weather.gov/oun/sfcmaps)
 - [Ocean Prediction Center Unified Surface Analysis](https://ocean.weather.gov/unified_analysis.php)
+- [NWS Surface Temperature](https://www.wrh.noaa.gov/map/?&zoom=5&scroll_zoom=false&center=37.59682400108367,-98.6572265625&boundaries=false,false,false,false,false,false,false,false,false&tab=layers&obs=true&obs_type=air_temp&obs_popup=false&obs_density=60&obs_provider=ALL) (NWS Weather & Hazards Data Viewer)
 
 ## Radar
 ### Mosaic
@@ -55,6 +56,9 @@ All sites should be free and don't require a login unless otherwise specified.
 - [NWS Model Guidance](https://mag.ncep.noaa.gov/model-guidance-model-area.php) (All NWS Models)
 - [College of DuPage Model Viewer](https://weather.cod.edu/forecast/) (RAP, NAM, HRRR, GEM, GFS, GEFS)
 - [Weathernerds Model Viewer](https://www.weathernerds.org/home.html) (Canadian, ECENS, ECMWF, GFS, HRRR, HWRF, HMON, ICON, NAM, RAP, WRF-ARW)
+
+## Hazards
+- [NWS Weather & Hazards Data Viewer](http://www.wrh.noaa.gov/map/?&zoom=5&scroll_zoom=false&center=37.59682400108367,-98.6572265625&boundaries=false,false,false,false,false,false,false,false,false&tab=observation&hazard=true&hazard_type=all&hazard_opacity=60&obs=true&obs_type=air_temp&obs_popup=false&obs_density=60&obs_provider=ALL)
 
 ## Lightning
 - [Blitzortung](https://map.blitzortung.org/)
