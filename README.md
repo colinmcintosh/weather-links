@@ -72,6 +72,11 @@ All sites should be free and don't require a login unless otherwise specified.
 - [Dolores Park (DoloCam)](https://www.dolocam.com/)
 - [Live Storm Chasing Map](https://livestormchasing.com/map)
 
+## Aircraft Reconnaissance
+- [NHC Aircraft Reconnaissance](https://www.nhc.noaa.gov/recon.php)
+- NHC Plan of the Day: [[Today](https://www.nhc.noaa.gov/text/MIAREPRPD_last.shtml)] [[Tomorrow](https://www.nhc.noaa.gov/text/MIAREPRPD.shtml)]
+- [Tropical Tidbits Recent Missions](https://www.tropicaltidbits.com/recon/)
+
 ## Marine
 - [NOAA Tide Predictions](https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290)
 
