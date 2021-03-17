@@ -81,7 +81,7 @@ All sites should be free and don't require a login unless otherwise specified.
 - [NOAA Tide Predictions](https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290)
 
 ## Sun
-- [GIASMA Sunrise & Sunset](https://www.gaisma.com/en/location/san-francisco-california.html)
+- [Gaisma Sunrise & Sunset](https://www.gaisma.com/en/location/san-francisco-california.html)
 - [NOAA Solar Calculator](https://www.esrl.noaa.gov/gmd/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2021) (Sunrise & Sunset)
 
 ## Downloads
