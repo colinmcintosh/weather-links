@@ -76,6 +76,7 @@ Websites/links listed below should be free and don't require a login unless othe
 ## Aircraft Reconnaissance
 - [NHC Aircraft Reconnaissance](https://www.nhc.noaa.gov/recon.php)
 - NHC Plan of the Day: [[Today](https://www.nhc.noaa.gov/text/MIAREPRPD_last.shtml)] [[Tomorrow](https://www.nhc.noaa.gov/text/MIAREPRPD.shtml)]
+  - For explanation see Sec 5.5.1.2. of the [National Hurricane Operations Plan](https://www.icams-portal.gov/publications/nhop/2020_nhop.pdf) (Page 5-7)
 - [Tropical Tidbits Recent Missions](https://www.tropicaltidbits.com/recon/)
 
 ## Marine
