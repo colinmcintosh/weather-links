@@ -18,7 +18,9 @@ Websites/links listed below should be free and don't require a login unless othe
 - [SPC Forecast](https://www.spc.noaa.gov/products/outlook/day1otlk.html)
 - [SPC Current Mesoscale Discussions](https://www.spc.noaa.gov/products/md/)
 - [SPC Current Watches](https://www.spc.noaa.gov/products/watch/)
-- [NHC Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5) (Atlantic hurricane season is June to Novemeber)
+- [NHC Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5)
+  - Atlantic hurricane season is June to Novemeber
+  - Eastern Pacific hurrican season is May to November
 - [OpenSnow](https://opensnow.com/dailysnow) **(Paid)**
 - [Forecast Lab YouTube](https://www.youtube.com/channel/UCA6mm30VIccQaYjABLaQ6Eg)
 
@@ -26,7 +28,7 @@ Websites/links listed below should be free and don't require a login unless othe
 - [NOAA National Forecast Charts](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php) [[GIF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif)] [[PDF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.pdf)]
 - [NOAA Current Surface Map](https://www.wpc.ncep.noaa.gov/html/sfc-zoom.php)
 - [NWS Current Surface Maps](https://www.weather.gov/oun/sfcmaps)
-- [Ocean Prediction Center Unified Surface Analysis](https://ocean.weather.gov/unified_analysis.php)
+- [OPC Unified Surface Analysis](https://ocean.weather.gov/unified_analysis.php)
 - [NWS Surface Temperature](https://www.wrh.noaa.gov/map/?&zoom=5&scroll_zoom=false&center=37.59682400108367,-98.6572265625&boundaries=false,false,false,false,false,false,false,false,false&tab=layers&obs=true&obs_type=air_temp&obs_popup=false&obs_density=60&obs_provider=ALL) (NWS Weather & Hazards Data Viewer)
 
 ## Radar
@@ -101,17 +103,29 @@ Websites/links listed below should be free and don't require a login unless othe
 ### Twitter
 - See this [Weather list](https://twitter.com/i/lists/1372373728600813570)
 
-## Acronyms
+## Glossary & Acronyms
+- CIRA = Cooperative Institute for Research in the Atmosphere
 - CPC = Climate Prediction Center
+- ECWMF = European Centre for Medium-Range Weather Forecasts
+- GEFS = Global Ensemble Prediction System
+- GEM = Global Environmental Multiscale Model
+- GFS = Global Forecast System
 - GOES = Geostationary Operational Environmental Satellite
 - GR = Gibson Ridge
 - HRRR = High-Resolution Rapid Refresh
+- HWRF = Hurricane Weather Research and Forecasting
+- ICON = Icosahedral Nonhydrostatic
+- NAM = North American Mesoscale Model
 - NASA = National Aeronautics and Space Administration
 - NCEP = National Centers for Environmental Prediction
 - NHC = National Hurricane Center
 - NOAA = National Oceanic and Atmospheric Administration
 - NWS = National Weather Service
 - OPC = Ocean Prediction Center
+- RAMMB = Regional and Mesoscale Meteorology Branch
+- RAP = Rapid Refresh
+- SLIDER = Satellite Loop Interactive Data Explorer in Real-Time
 - SPC = Storm Prediction Center
+- WRF-ARW = Weather Research and Forecasting Model
 
 Copyright (c) 2021 Colin McIntosh
