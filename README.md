@@ -104,3 +104,5 @@ Websites/links listed below should be free and don't require a login unless othe
 - NWS = National Weather Service
 - OPC = Ocean Prediction Center
 - SPC = Storm Prediction Center
+
+Copyright (c) 2021 Colin McIntosh
