@@ -92,6 +92,15 @@ Websites/links listed below should be free and don't require a login unless othe
 - [GREarth](http://www.grlevelx.com/grearth/) (Windows) **(Paid)** - Mosaic Radar
 - [RadarScope](https://play.google.com/store/apps/details?id=com.basevelocity.radarscope) (Android) **(Paid)** - Level II/III Radar
 
+## Social Media
+
+### Reddit
+- [/r/weather](https://www.reddit.com/r/weather/)
+- [/r/meteorology](https://www.reddit.com/r/meteorology/)
+
+### Twitter
+- See this [Weather list](https://twitter.com/i/lists/1372373728600813570)
+
 ## Acronyms
 - CPC = Climate Prediction Center
 - GOES = Geostationary Operational Environmental Satellite
