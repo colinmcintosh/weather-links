@@ -1,8 +1,8 @@
 # Colin's Weather Links
 A collection of links to websites, tools, and pages for meteorology and weather.
 
-Some of these links are localized to areas of interest for me but most are able to be switched to other locations or sites.
-All sites should be free and don't require a login unless otherwise specified.
+Some of these links are localized to areas of interest for me but most are able to be switched to other locations or areas.
+Websites/links listed below should be free and don't require a login unless otherwise specified.
 
 ## Education
 - [How to Read Surface Weather Maps](https://www.weather.gov/jetstream/wxmaps)
