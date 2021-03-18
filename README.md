@@ -24,7 +24,7 @@ Websites/links listed below should be free and don't require a login unless othe
 - [CPC Outlook](https://www.cpc.ncep.noaa.gov/) (6 days - 3 months)
 - [NHC Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5)
   - Atlantic hurricane season is June to Novemeber
-  - Eastern Pacific hurrican season is May to November
+  - Eastern Pacific hurricane season is May to November
 - [OpenSnow](https://opensnow.com/dailysnow) **(Paid)**
 - [Forecast Lab YouTube](https://www.youtube.com/channel/UCA6mm30VIccQaYjABLaQ6Eg)
 
