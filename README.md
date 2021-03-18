@@ -14,10 +14,14 @@ Websites/links listed below should be free and don't require a login unless othe
 ## Discussions & Forecasts
 - [NWS Area Forecast Discussion](https://www.wrh.noaa.gov/total_forecast/getprod.php?new&prod=XXXAFDMTR&wfo=mtr)
 - [NWS Zone Forecast](https://www.wrh.noaa.gov/mtr/versprod.php?pil=ZFP&sid=MTR)
-- [CPC Outlook](https://www.cpc.ncep.noaa.gov/)
-- [SPC Forecast](https://www.spc.noaa.gov/products/outlook/day1otlk.html)
+- [SPC Outlook](https://www.spc.noaa.gov/products/outlook/)
+    [[Day 1](https://www.spc.noaa.gov/products/outlook/day1otlk.html)]
+    [[Day 2](https://www.spc.noaa.gov/products/outlook/day2otlk.html)]
+    [[Day 3](https://www.spc.noaa.gov/products/outlook/day3otlk.html)]
+    [[Day 4-8](https://www.spc.noaa.gov/products/exper/day4-8/)]
 - [SPC Current Mesoscale Discussions](https://www.spc.noaa.gov/products/md/)
 - [SPC Current Watches](https://www.spc.noaa.gov/products/watch/)
+- [CPC Outlook](https://www.cpc.ncep.noaa.gov/) (6 days - 3 months)
 - [NHC Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5)
   - Atlantic hurricane season is June to Novemeber
   - Eastern Pacific hurrican season is May to November
