@@ -17,6 +17,7 @@ Websites/links listed below should be free and don't require a login unless othe
 - [CPC Outlook](https://www.cpc.ncep.noaa.gov/)
 - [SPC Forecast](https://www.spc.noaa.gov/products/outlook/day1otlk.html)
 - [SPC Current Mesoscale Discussions](https://www.spc.noaa.gov/products/md/)
+- [SPC Current Watches](https://www.spc.noaa.gov/products/watch/)
 - [NHC Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5) (Atlantic hurricane season is June to Novemeber)
 - [OpenSnow](https://opensnow.com/dailysnow) **(Paid)**
 - [Forecast Lab YouTube](https://www.youtube.com/channel/UCA6mm30VIccQaYjABLaQ6Eg)
