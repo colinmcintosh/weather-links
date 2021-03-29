@@ -29,7 +29,7 @@ Websites/links listed below should be free and don't require a login unless othe
 - [Forecast Lab YouTube](https://www.youtube.com/channel/UCA6mm30VIccQaYjABLaQ6Eg)
 
 ### Watches, Warnings, & Advisories
-- [SPC Current Watches](https://www.spc.noaa.gov/products/watch/)
+- [SPC Current Convective Watches](https://www.spc.noaa.gov/products/watch/)
 - [NWS Alerts Map](https://www.weather.gov/) (New)
 - [NWS Watch, Warning, Advisory Display](https://www.spc.noaa.gov/products/wwa/) (Old)
 - [NWS Weather Alerts by State](https://alerts.weather.gov/) (scroll down)
