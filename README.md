@@ -20,13 +20,19 @@ Websites/links listed below should be free and don't require a login unless othe
     [[Day 3](https://www.spc.noaa.gov/products/outlook/day3otlk.html)]
     [[Day 4-8](https://www.spc.noaa.gov/products/exper/day4-8/)]
 - [SPC Current Mesoscale Discussions](https://www.spc.noaa.gov/products/md/)
-- [SPC Current Watches](https://www.spc.noaa.gov/products/watch/)
 - [CPC Outlook](https://www.cpc.ncep.noaa.gov/) (6 days - 3 months)
+- [WPC Winter Weather Forecast](https://www.wpc.ncep.noaa.gov/wwd/winter_wx.shtml)
 - [NHC Forecast](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=5)
   - Atlantic hurricane season is June to Novemeber
   - Eastern Pacific hurricane season is May to November
 - [OpenSnow](https://opensnow.com/dailysnow) **(Paid)**
 - [Forecast Lab YouTube](https://www.youtube.com/channel/UCA6mm30VIccQaYjABLaQ6Eg)
+
+### Watches, Warnings, & Advisories
+- [SPC Current Watches](https://www.spc.noaa.gov/products/watch/)
+- [NWS Alerts Map](https://www.weather.gov/) (New)
+- [NWS Watch, Warning, Advisory Display](https://www.spc.noaa.gov/products/wwa/) (Old)
+- [NWS Weather Alerts by State](https://alerts.weather.gov/) (scroll down)
 
 ## Surface Maps
 - [NOAA National Forecast Charts](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php) [[GIF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif)] [[PDF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.pdf)]
@@ -131,5 +137,6 @@ Websites/links listed below should be free and don't require a login unless othe
 - SLIDER = Satellite Loop Interactive Data Explorer in Real-Time
 - SPC = Storm Prediction Center
 - WRF-ARW = Weather Research and Forecasting Model
+- WPC = Weather Prediction Center
 
 Copyright (c) 2021 Colin McIntosh
