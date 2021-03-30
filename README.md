@@ -61,6 +61,7 @@ Websites/links listed below should be free and don't require a login unless othe
 - [NOAA GOES Latest Imagery](https://www.star.nesdis.noaa.gov/GOES/index.php)
 - [NHC Latest Satellite Imagery](https://www.nhc.noaa.gov/satellite.php)
 - [NASA Worldview](https://worldview.earthdata.nasa.gov/?v=-125.90494646571905,35.44708071161813,-115.5279995774611,40.70446356867694)
+- [NOAA Satellite Messages](https://www.ospo.noaa.gov/Operations/messages.html) (Operations Messages & Status)
 
 ## Forecast Models
 - [HRRR-NCEP (Operational/Current)](https://rapidrefresh.noaa.gov/hrrr/HRRR/Welcome.cgi?dsKey=hrrr_ncep_jet&domain=z1)
