@@ -28,11 +28,12 @@ Websites/links listed below should be free and don't require a login unless othe
 - [OpenSnow](https://opensnow.com/dailysnow) **(Paid)**
 - [Forecast Lab YouTube](https://www.youtube.com/channel/UCA6mm30VIccQaYjABLaQ6Eg)
 
-### Watches, Warnings, & Advisories
+### Watches, Warnings, Advisories, & Hazards
 - [SPC Current Convective Watches](https://www.spc.noaa.gov/products/watch/)
 - [NWS Alerts Map](https://www.weather.gov/) (New)
 - [NWS Watch, Warning, Advisory Display](https://www.spc.noaa.gov/products/wwa/) (Old)
 - [NWS Weather Alerts by State](https://alerts.weather.gov/) (scroll down)
+- [NWS Weather & Hazards Data Viewer](http://www.wrh.noaa.gov/map/?&zoom=5&scroll_zoom=false&center=37.59682400108367,-98.6572265625&boundaries=false,false,false,false,false,false,false,false,false&tab=observation&hazard=true&hazard_type=all&hazard_opacity=60&obs=true&obs_type=air_temp&obs_popup=false&obs_density=60&obs_provider=ALL)
 
 ## Surface Maps
 - [NOAA National Forecast Charts](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php) [[GIF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif)] [[PDF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.pdf)]
@@ -69,9 +70,6 @@ Websites/links listed below should be free and don't require a login unless othe
 - [NWS Model Guidance](https://mag.ncep.noaa.gov/model-guidance-model-area.php) (All NWS Models)
 - [College of DuPage Model Viewer](https://weather.cod.edu/forecast/) (RAP, NAM, HRRR, GEM, GFS, GEFS)
 - [Weathernerds Model Viewer](https://www.weathernerds.org/home.html) (Canadian, ECENS, ECMWF, GFS, HRRR, HWRF, HMON, ICON, NAM, RAP, WRF-ARW)
-
-## Hazards
-- [NWS Weather & Hazards Data Viewer](http://www.wrh.noaa.gov/map/?&zoom=5&scroll_zoom=false&center=37.59682400108367,-98.6572265625&boundaries=false,false,false,false,false,false,false,false,false&tab=observation&hazard=true&hazard_type=all&hazard_opacity=60&obs=true&obs_type=air_temp&obs_popup=false&obs_density=60&obs_provider=ALL)
 
 ## Lightning
 - [Blitzortung](https://map.blitzortung.org/)
