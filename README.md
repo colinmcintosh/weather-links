@@ -33,7 +33,7 @@ Websites/links listed below should be free and don't require a login unless othe
 - [NWS Alerts Map](https://www.weather.gov/) (New)
 - [NWS Watch, Warning, Advisory Display](https://www.spc.noaa.gov/products/wwa/) (Old)
 - [NWS Weather Alerts by State](https://alerts.weather.gov/) (scroll down)
-- [NWS Weather & Hazards Data Viewer](http://www.wrh.noaa.gov/map/?&zoom=5&scroll_zoom=false&center=37.59682400108367,-98.6572265625&boundaries=false,false,false,false,false,false,false,false,false&tab=observation&hazard=true&hazard_type=all&hazard_opacity=60&obs=true&obs_type=air_temp&obs_popup=false&obs_density=60&obs_provider=ALL)
+- [NWS Weather & Hazards Data Viewer](http://www.wrh.noaa.gov/map/?&zoom=5&scroll_zoom=false&center=37.59682400108367,-98.6572265625&boundaries=false,false,false,false,false,false,false,false,false&tab=observation&hazard=true&hazard_type=all&hazard_opacity=60&elements=temp,wind,gust&temp_filter=-80,130&gust_filter=0,150&rh_filter=0,100&elev_filter=-300,14000&precip_filter=0.01,18&obs_popup=false&obs_density=60&obs_provider=ALL)
 
 ## Surface Maps
 - [NOAA National Forecast Charts](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php) [[GIF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif)] [[PDF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.pdf)]
