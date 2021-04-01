@@ -4,12 +4,20 @@ A collection of links to websites, tools, and pages for meteorology and weather.
 Some of these links are localized to areas of interest for me but most are able to be switched to other locations or areas.
 Websites/links listed below should be free and don't require a login unless otherwise specified.
 
-## Education
+## Education & Reference
+
+### General
 - [How to Read Surface Weather Maps](https://www.weather.gov/jetstream/wxmaps)
 - [Weather Prediction Education and Resources (Jeff Haby)](http://www.theweatherprediction.com/)
 - [MetEd](https://www.meted.ucar.edu/training_detail.php)
+
+### Radar
 - [Dual-Pol Radar Decision Aid Flipchart](http://www.wdtb.noaa.gov/courses/dualpol/Outreach/DualPol-Flipchart.pdf)
 - [Dual-Polarization Radar Principles and System Operations](https://training.weather.gov/wdtd/courses/dualpol/documents/DualPolRadarPrinciples.pdf)
+
+### Satellite
+- [CIMSS ABI Quick Guides](http://cimss.ssec.wisc.edu/goes/GOESR_QuickGuides.html) (GOES Satellite Bands)
+- [CIRA Satellite Imagery Quick Guides](https://rammb.cira.colostate.edu/training/visit/quick_guides/) (includes many CIMSS guides)
 
 ## Discussions & Forecasts
 - [NWS Area Forecast Discussion](https://www.wrh.noaa.gov/total_forecast/getprod.php?new&prod=XXXAFDMTR&wfo=mtr)
@@ -118,6 +126,8 @@ Websites/links listed below should be free and don't require a login unless othe
 - See this [Weather list](https://twitter.com/i/lists/1372373728600813570)
 
 ## Glossary & Acronyms
+- ABI = Advanced Baseline Imager (the primary image capture instrument on GOES satellites)
+- CIMSS = Cooperative Institute for Meteorological Satellite Studies
 - CIRA = Cooperative Institute for Research in the Atmosphere
 - CPC = Climate Prediction Center
 - ECWMF = European Centre for Medium-Range Weather Forecasts
