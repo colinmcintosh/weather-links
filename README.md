@@ -97,6 +97,11 @@ Websites/links listed below should be free and don't require a login unless othe
 - [Gaisma Sunrise & Sunset](https://www.gaisma.com/en/location/san-francisco-california.html)
 - [NOAA Solar Calculator](https://www.esrl.noaa.gov/gmd/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2021) (Sunrise & Sunset)
 
+## Historical Climate Data
+- [NCDC Home](https://www.ncdc.noaa.gov/cdo-web/)
+- [NCDC Climate Data Access](https://www.ncdc.noaa.gov/data-access/quick-links)
+- [NWS Record Event Reports](https://w2.weather.gov/climate/index.php?wfo=mtr) (Click on 'Record Event Report' in Product table)
+
 ## Downloads
 - [GRLevel3](http://www.grlevelx.com/grlevel3_2/) (Windows) **(Paid)** - Level III Radar
 - [GR2Analyst](http://www.grlevelx.com/gr2analyst_2) (Windows) **(Paid)** - Level II Radar
@@ -126,6 +131,7 @@ Websites/links listed below should be free and don't require a login unless othe
 - ICON = Icosahedral Nonhydrostatic
 - NAM = North American Mesoscale Model
 - NASA = National Aeronautics and Space Administration
+- NCDC = National Climatic Data Center
 - NCEP = National Centers for Environmental Prediction
 - NHC = National Hurricane Center
 - NOAA = National Oceanic and Atmospheric Administration
