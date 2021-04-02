@@ -154,4 +154,8 @@ Websites/links listed below should be free and don't require a login unless othe
 - WRF-ARW = Weather Research and Forecasting Model
 - WPC = Weather Prediction Center
 
+This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on GitHub](https://github.com/colinmcintosh/weather-links)
+
 Copyright (c) 2021 Colin McIntosh
+
+Licensed under the [Apache License, Version 2.0](LICENSE)
