@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - LICENSE
   - README.md
 
 theme: jekyll-theme-dinky
