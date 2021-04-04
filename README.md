@@ -70,6 +70,7 @@ Websites/links listed below should be free and don't require a login unless othe
 - [NHC Latest Satellite Imagery](https://www.nhc.noaa.gov/satellite.php)
 - [NASA Worldview](https://worldview.earthdata.nasa.gov/?v=-125.90494646571905,35.44708071161813,-115.5279995774611,40.70446356867694)
 - [NOAA Satellite Messages](https://www.ospo.noaa.gov/Operations/messages.html) (Operations Messages & Status)
+- [MODIS Image of the Day](https://modis.gsfc.nasa.gov/gallery/showall.php)
 
 ## Forecast Models
 - [HRRR-NCEP (Operational/Current)](https://rapidrefresh.noaa.gov/hrrr/HRRR/Welcome.cgi?dsKey=hrrr_ncep_jet&domain=z1)
@@ -139,6 +140,7 @@ Websites/links listed below should be free and don't require a login unless othe
 - HRRR = High-Resolution Rapid Refresh
 - HWRF = Hurricane Weather Research and Forecasting
 - ICON = Icosahedral Nonhydrostatic
+- MODIS = Moderate Resolution Imaging Spectroradiometer
 - NAM = North American Mesoscale Model
 - NASA = National Aeronautics and Space Administration
 - NCDC = National Climatic Data Center
