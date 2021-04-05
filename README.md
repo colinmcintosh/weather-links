@@ -6,16 +6,16 @@ Websites/links listed below should be free and don't require a login unless othe
 
 ## Education & Reference
 
-### General
+#### General
 - [How to Read Surface Weather Maps](https://www.weather.gov/jetstream/wxmaps)
 - [Weather Prediction Education and Resources (Jeff Haby)](http://www.theweatherprediction.com/)
 - [MetEd](https://www.meted.ucar.edu/training_detail.php)
 
-### Radar
+#### Radar
 - [Dual-Pol Radar Decision Aid Flipchart](http://www.wdtb.noaa.gov/courses/dualpol/Outreach/DualPol-Flipchart.pdf)
 - [Dual-Polarization Radar Principles and System Operations](https://training.weather.gov/wdtd/courses/dualpol/documents/DualPolRadarPrinciples.pdf)
 
-### Satellite
+#### Satellite
 - [CIMSS ABI Quick Guides](http://cimss.ssec.wisc.edu/goes/GOESR_QuickGuides.html) (GOES Satellite Bands)
 - [CIRA Satellite Imagery Quick Guides](https://rammb.cira.colostate.edu/training/visit/quick_guides/) (includes many CIMSS guides)
 
