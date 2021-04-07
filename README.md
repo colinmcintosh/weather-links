@@ -4,8 +4,9 @@ A collection of links to websites, tools, and pages for meteorology and weather.
 Some of these links are localized to areas of interest for me but most are able to be switched to other locations or areas.
 Websites/links listed below should be free and don't require a login unless otherwise specified.
 
-## Education & Reference
+This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on GitHub](https://github.com/colinmcintosh/weather-links)
 
+## Education & Reference
 #### General
 - [How to Read Surface Weather Maps](https://www.weather.gov/jetstream/wxmaps)
 - [Weather Prediction Education and Resources (Jeff Haby)](http://www.theweatherprediction.com/)
@@ -51,18 +52,23 @@ Websites/links listed below should be free and don't require a login unless othe
 - [NWS Surface Temperature](https://www.wrh.noaa.gov/map/?&zoom=5&scroll_zoom=false&center=37.59682400108367,-98.6572265625&boundaries=false,false,false,false,false,false,false,false,false&tab=layers&obs=true&obs_type=air_temp&obs_popup=false&obs_density=60&obs_provider=ALL) (NWS Weather & Hazards Data Viewer)
 
 ## Radar
-### Mosaic
+#### Mosaic
 - [NWS National Radar Mosaic](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJuYXRpb25hbCIsImNlbnRlciI6Wy05Ni4xMTMsMzkuMTY2XSwiem9vbSI6NSwibGF5ZXIiOiJjcmVmX3FjZCIsInRyYW5zcGFyZW50Ijp0cnVlLCJhbGVydHNPdmVybGF5Ijp0cnVlfSwiYmFzZSI6InN0YW5kYXJkIiwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6dHJ1ZX0%3D#/)
 - [WeatherUnderground WunderMap](https://www.wunderground.com/wundermap?zoom=4&radar=1&wxstn=0)
 - [AllisonHouse](https://maps.allisonhouse.com/) **(Paid)**
+- [GREarth](http://www.grlevelx.com/grearth/) (Download/Windows) **(Paid)**
 
-### Level III Data
+#### Level III Data
 - [College of DuPage Composite Radar - Localized](https://weather.cod.edu/satrad/?parms=local-Tahoe-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
 - [College of DuPage Composite Radar - Sub-Regional](https://weather.cod.edu/satrad/?parms=subregional-SanFran-comp_radar-48-0-100-1&checked=counties-map&colorbar=undefined)
 - [College of DuPage NEXLAB Dual-Pol Radar](https://weather.cod.edu/satrad/nexrad/?parms=MUX-N0Q-1-24-100-usa-rad)
+- [GRLevel3](http://www.grlevelx.com/grlevel3_2/) (Download/Windows) **(Paid)**
+- [RadarScope](https://play.google.com/store/apps/details?id=com.basevelocity.radarscope) (Download/Android) **(Paid)**
 
-### Level II Data
+#### Level II Data
 - [Weathernerds](https://www.weathernerds.org/radar/rad.html?&initsite=KMUX&initradtype=ref&initcscheme=undefined&initimdimx=1016&initimdimy=782&initrange=39.231450220000:-124.503484140000:35.079002380000:-119.293404380000&initloop=False&initnframes=10&initwarnings=On&initinterstates=On&initbackground=On&initlightning16=Off&initlightning17=Off)
+- [GR2Analyst](http://www.grlevelx.com/gr2analyst_2) (Download/Windows) **(Paid)**
+- [RadarScope](https://play.google.com/store/apps/details?id=com.basevelocity.radarscope) (Download/Android) **(Paid)**
 
 ## Satellite
 - [RAMMB/CIRA SLIDER](https://rammb-slider.cira.colostate.edu/)
@@ -111,19 +117,15 @@ Websites/links listed below should be free and don't require a login unless othe
 - [NCDC Climate Data Access](https://www.ncdc.noaa.gov/data-access/quick-links)
 - [NWS Record Event Reports](https://w2.weather.gov/climate/index.php?wfo=mtr) (Click on 'Record Event Report' in Product table)
 
-## Downloads
-- [GRLevel3](http://www.grlevelx.com/grlevel3_2/) (Windows) **(Paid)** - Level III Radar
-- [GR2Analyst](http://www.grlevelx.com/gr2analyst_2) (Windows) **(Paid)** - Level II Radar
-- [GREarth](http://www.grlevelx.com/grearth/) (Windows) **(Paid)** - Mosaic Radar
-- [RadarScope](https://play.google.com/store/apps/details?id=com.basevelocity.radarscope) (Android) **(Paid)** - Level II/III Radar
+## Data Analysis Tools
+- [NOAA Weather and Climate Toolkit](https://www.ncdc.noaa.gov/wct/index.php) (Download/Windows/Mac/Linux)
 
 ## Social Media
-
-### Reddit
+#### Reddit
 - [/r/weather](https://www.reddit.com/r/weather/)
 - [/r/meteorology](https://www.reddit.com/r/meteorology/)
 
-### Twitter
+#### Twitter
 - See this [Weather list](https://twitter.com/i/lists/1372373728600813570)
 
 ## Glossary & Acronyms
@@ -155,8 +157,6 @@ Websites/links listed below should be free and don't require a login unless othe
 - SPC = Storm Prediction Center
 - WRF-ARW = Weather Research and Forecasting Model
 - WPC = Weather Prediction Center
-
-This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on GitHub](https://github.com/colinmcintosh/weather-links)
 
 Copyright (c) 2021 Colin McIntosh
 
