@@ -163,4 +163,4 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 Copyright (c) 2021 Colin McIntosh
 
 Licensed under the [Apache License, Version 2.0](LICENSE.md).
-See additional notices [here](NOTICE.md).
+See [notices](NOTICE.md) for additional information.
