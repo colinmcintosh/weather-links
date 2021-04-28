@@ -113,6 +113,7 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 ## Sun
 - [Gaisma Sunrise & Sunset](https://www.gaisma.com/en/location/san-francisco-california.html)
 - [NOAA Solar Calculator](https://www.esrl.noaa.gov/gmd/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2021) (Sunrise & Sunset)
+- [SunCalc](https://www.suncalc.org/)
 
 ## Historical Climate Data
 - [NCDC Home](https://www.ncdc.noaa.gov/cdo-web/)
