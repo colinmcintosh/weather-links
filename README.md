@@ -89,8 +89,26 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 - [College of DuPage Model Viewer](https://weather.cod.edu/forecast/) (RAP, NAM, HRRR, GEM, GFS, GEFS)
 - [Weathernerds Model Viewer](https://www.weathernerds.org/home.html) (Canadian, ECENS, ECMWF, GFS, HRRR, HWRF, HMON, ICON, NAM, RAP, WRF-ARW)
 
+## Drought
+- [U.S. Drought Monitor](https://droughtmonitor.unl.edu/)
+- [CPC Monthly Drought Outlook](https://www.cpc.ncep.noaa.gov/products/expert_assessment/mdo_summary.php)
+- [CPC Seasonal Drought Outlook](https://www.cpc.ncep.noaa.gov/products/expert_assessment/sdo_summary.php)
+
 ## Lightning
 - [Blitzortung](https://map.blitzortung.org/)
+
+## Fire
+- [SPC Fire Weather Outlook](https://www.spc.noaa.gov/products/fire_wx/)
+    [[Day 1](https://www.spc.noaa.gov/products/fire_wx/fwdy1.html)]
+    [[Day 2](https://www.spc.noaa.gov/products/fire_wx/fwdy2.html)]
+    [[Day 3-8](https://www.spc.noaa.gov/products/exper/fire_wx/)]
+- [NIFC Significant Wildland Fire Potential Summary (Seasonal)](https://www.predictiveservices.nifc.gov/outlooks/monthly_seasonal_outlook.pdf)
+- [NIFC Significant Wildland Fire Potential Outlook (This Month)](https://www.predictiveservices.nifc.gov/outlooks/month1_outlook.png)
+- [NIFC Significant Wildland Fire Potential Outlook (Month 2)](https://www.predictiveservices.nifc.gov/outlooks/month2_outlook.png)
+- [NIFC Significant Wildland Fire Potential Outlook (Month 3)](https://www.predictiveservices.nifc.gov/outlooks/month3_outlook.png)
+- [AirNow Fire & Smoke Map](https://fire.airnow.gov/)
+- [CalFIRE Fire Season Incident Overview](https://www.fire.ca.gov/incidents/)
+- [NWCG InciWeb Incident Information System](https://inciweb.nwcg.gov/)
 
 ## Air Quality
 - [PurpleAir](https://www.purpleair.com/map?opt=1/i/mAQI/a0/cC1&select=64383#12.67/37.7723/-122.43994)
@@ -151,7 +169,9 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 - NCDC = National Climatic Data Center
 - NCEP = National Centers for Environmental Prediction
 - NHC = National Hurricane Center
+- NIFC = National Interagency Fire Center
 - NOAA = National Oceanic and Atmospheric Administration
+- NWCG = National Wildfire Coordinating Group
 - NWS = National Weather Service
 - OPC = Ocean Prediction Center
 - RAMMB = Regional and Mesoscale Meteorology Branch
