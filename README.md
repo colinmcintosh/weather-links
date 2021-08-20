@@ -22,6 +22,7 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 - [CIRA Satellite Imagery Quick Guides](https://rammb.cira.colostate.edu/training/visit/quick_guides/) (includes many CIMSS guides)
 
 ## Discussions & Forecasts
+- [NWS Current Conditions & 7 Day Forecast](https://forecast.weather.gov/MapClick.php?lat=37.777120000000025&lon=-122.41963999999996)
 - [NWS Area Forecast Discussion](https://www.wrh.noaa.gov/total_forecast/getprod.php?new&prod=XXXAFDMTR&wfo=mtr)
 - [NWS Zone Forecast](https://www.wrh.noaa.gov/mtr/versprod.php?pil=ZFP&sid=MTR)
 - [SPC Outlook](https://www.spc.noaa.gov/products/outlook/)
