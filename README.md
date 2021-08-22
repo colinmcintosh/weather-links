@@ -118,6 +118,7 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 - [Caltrans CCTV Map](https://cwwp2.dot.ca.gov/vm/iframemap.htm)
 - [CastroCam](https://castrocam.net/hd/)
 - [Dolores Park (DoloCam)](https://www.dolocam.com/)
+- [Is It Foggy](https://isitfoggy.com/)
 - [Live Storm Chasing Map](https://livestormchasing.com/map)
 
 ## Aircraft Reconnaissance
