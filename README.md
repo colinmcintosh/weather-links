@@ -107,11 +107,12 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 - [NIFC Significant Wildland Fire Potential Outlook (This Month)](https://www.predictiveservices.nifc.gov/outlooks/month1_outlook.png)
 - [NIFC Significant Wildland Fire Potential Outlook (Month 2)](https://www.predictiveservices.nifc.gov/outlooks/month2_outlook.png)
 - [NIFC Significant Wildland Fire Potential Outlook (Month 3)](https://www.predictiveservices.nifc.gov/outlooks/month3_outlook.png)
-- [AirNow Fire & Smoke Map](https://fire.airnow.gov/)
 - [CalFIRE Fire Season Incident Overview](https://www.fire.ca.gov/incidents/)
 - [NWCG InciWeb Incident Information System](https://inciweb.nwcg.gov/)
 
 ## Air Quality
+- [AirNow Fire & Smoke Map](https://fire.airnow.gov/)
+- [Bay Area Air Quality Management District (Spare The Air)](https://www.sparetheair.org/)
 - [PurpleAir](https://www.purpleair.com/map?opt=1/i/mAQI/a0/cC1&select=64383#12.67/37.7723/-122.43994)
 
 ## Camera Feeds
