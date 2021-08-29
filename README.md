@@ -57,7 +57,6 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 #### Mosaic
 - [NWS National Radar Mosaic](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJuYXRpb25hbCIsImNlbnRlciI6Wy05Ni4xMTMsMzkuMTY2XSwiem9vbSI6NSwibGF5ZXIiOiJjcmVmX3FjZCIsInRyYW5zcGFyZW50Ijp0cnVlLCJhbGVydHNPdmVybGF5Ijp0cnVlfSwiYmFzZSI6InN0YW5kYXJkIiwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6dHJ1ZX0%3D#/)
 - [WeatherUnderground WunderMap](https://www.wunderground.com/wundermap?zoom=4&radar=1&wxstn=0)
-- [AllisonHouse](https://maps.allisonhouse.com/) **(Paid)**
 - [GREarth](http://www.grlevelx.com/grearth/) (Download/Windows) **(Paid)**
 
 #### Level III Data
@@ -89,6 +88,7 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 - [NWS Model Guidance](https://mag.ncep.noaa.gov/model-guidance-model-area.php) (All NWS Models)
 - [College of DuPage Model Viewer](https://weather.cod.edu/forecast/) (RAP, NAM, HRRR, GEM, GFS, GEFS)
 - [Weathernerds Model Viewer](https://www.weathernerds.org/home.html) (Canadian, ECENS, ECMWF, GFS, HRRR, HWRF, HMON, ICON, NAM, RAP, WRF-ARW)
+- [AllisonHouse Maps](https://maps.allisonhouse.com/) **(Paid)**
 
 ## Drought
 - [U.S. Drought Monitor](https://droughtmonitor.unl.edu/)
