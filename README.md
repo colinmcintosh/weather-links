@@ -121,7 +121,6 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 - [Dolores Park (DoloCam)](https://www.dolocam.com/)
 - [Is It Foggy](https://isitfoggy.com/)
 - [Live Storm Chasing Map](https://livestormchasing.com/map)
-- [Snapchat Map](https://map.snapchat.com/)
 
 ## Aircraft Reconnaissance
 - [NHC Aircraft Reconnaissance](https://www.nhc.noaa.gov/recon.php)
@@ -151,8 +150,14 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 - [/r/TropicalWeather](https://www.reddit.com/r/TropicalWeather/)
 - [/r/weather](https://www.reddit.com/r/weather/)
 
+#### Snapchat
+- [Snapchat Map](https://map.snapchat.com/)
+
 #### Twitter
 - See this [Weather list](https://twitter.com/i/lists/1372373728600813570)
+- [National Hurricane Center](https://twitter.com/NHC_Atlantic)
+- [NWS Mount Holly](https://twitter.com/NWS_MountHolly)
+- [NWS Bay Area](https://twitter.com/NWSBayArea)
 
 ## Glossary & Acronyms
 - ABI = Advanced Baseline Imager (the primary image capture instrument on GOES satellites)
