@@ -121,6 +121,11 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 - [Dolores Park (DoloCam)](https://www.dolocam.com/)
 - [Is It Foggy](https://isitfoggy.com/)
 - [Live Storm Chasing Map](https://livestormchasing.com/map)
+- [Alert Wildfire Cameras](http://www.alertwildfire.org)
+  - [Greater Tahoe CA-NV](http://www.alertwildfire.org/tahoe/index.html?camera=Axis-Heavenly&v=fd40740)
+  - [South & East Bay](http://www.alertwildfire.org/southeastbay/index.html?v=fd40740)
+- [Stateline Lake Tahoe & Timber Cove](https://tahoesouth.com/things-to-do/lake-tahoe-webcams/)
+- [OpenSnow California Webcams](https://opensnow.com/state/CA#cams) **(Paid)**
 
 ## Aircraft Reconnaissance
 - [NHC Aircraft Reconnaissance](https://www.nhc.noaa.gov/recon.php)
