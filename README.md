@@ -109,6 +109,7 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 - [NIFC Significant Wildland Fire Potential Outlook (Month 3)](https://www.predictiveservices.nifc.gov/outlooks/month3_outlook.png)
 - [CalFIRE Fire Season Incident Overview](https://www.fire.ca.gov/incidents/)
 - [NWCG InciWeb Incident Information System](https://inciweb.nwcg.gov/)
+- [NIFC FTP Server](https://ftp.wildfire.gov/)
 
 ## Air Quality
 - [AirNow Fire & Smoke Map](https://fire.airnow.gov/)
