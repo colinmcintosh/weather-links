@@ -5,7 +5,26 @@ A collection of links to websites, tools, and pages for meteorology and weather.
 Some of these links are localized to areas of interest for me but most are able to be switched to other locations or areas.
 Websites/links listed below should be free and don't require a login unless otherwise specified.
 
-This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on GitHub](https://github.com/colinmcintosh/weather-links)
+## Table of Contents
+
+- [Education & Reference](#education--reference)
+- [Discussions & Forecasts](#discussions--forecasts)
+- [Surface Maps](#surface-maps)
+- [Radar](#radar-1)
+- [Satellite](#satellite-1)
+- [Forecast Models](#forecast-models)
+- [Drought](#drought)
+- [Lightning](#lightning)
+- [Fire](#fire)
+- [Air Quality](#air-quality)
+- [Camera Feeds](#camera-feeds)
+- [Aircraft Reconnaissance](#aircraft-reconnaissance)
+- [Marine](#marine)
+- [Sun](#sun)
+- [Historical Climate Data](#historical-climate-data)
+- [Data Analysis Tools](#data-analysis-tools)
+- [Social Media](#social-media)
+- [Glossary & Acronyms](#glossary--acronyms)
 
 ## Education & Reference
 #### General
@@ -196,6 +215,8 @@ This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on 
 - SPC = Storm Prediction Center
 - WRF-ARW = Weather Research and Forecasting Model
 - WPC = Weather Prediction Center
+
+This page can be found at [https://wx.cm.lol](https://wx.cm.lol) or [view it on GitHub](https://github.com/colinmcintosh/weather-links)
 
 Copyright (c) 2021 Colin McIntosh
 
