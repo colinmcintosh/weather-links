@@ -136,16 +136,19 @@ Websites/links listed below should be free and don't require a login unless othe
 - [PurpleAir](https://www.purpleair.com/map?opt=1/i/mAQI/a0/cC1&select=64383#12.67/37.7723/-122.43994)
 
 ## Camera Feeds
-- [Caltrans CCTV Map](https://cwwp2.dot.ca.gov/vm/iframemap.htm)
-- [CastroCam](https://castrocam.net/hd/)
-- [Dolores Park (DoloCam)](https://www.dolocam.com/)
-- [Is It Foggy](https://isitfoggy.com/)
-- [Live Storm Chasing Map](https://livestormchasing.com/map)
 - [Alert Wildfire Cameras](http://www.alertwildfire.org)
   - [Greater Tahoe CA-NV](http://www.alertwildfire.org/tahoe/index.html?camera=Axis-Heavenly&v=fd40740)
   - [South & East Bay](http://www.alertwildfire.org/southeastbay/index.html?v=fd40740)
-- [Stateline Lake Tahoe & Timber Cove](https://tahoesouth.com/things-to-do/lake-tahoe-webcams/)
+- [Caltrans CCTV Map](https://cwwp2.dot.ca.gov/vm/iframemap.htm)
+- [CastroCam](https://castrocam.net/hd/)
+- [Dolores Park (DoloCam)](https://www.dolocam.com/)
+- [Farallon Islands](https://www.calacademy.org/farallones)
+- [FogCam](https://www.fogcam.org/)
+- [Is It Foggy](https://isitfoggy.com/)
+- [Live Storm Chasing Map](https://livestormchasing.com/map)
+- [Muir Beach](https://sigward.com/)
 - [OpenSnow California Webcams](https://opensnow.com/state/CA#cams) **(Paid)**
+- [Stateline Lake Tahoe & Timber Cove](https://tahoesouth.com/things-to-do/lake-tahoe-webcams/)
 
 ## Aircraft Reconnaissance
 - [NHC Aircraft Reconnaissance](https://www.nhc.noaa.gov/recon.php)
