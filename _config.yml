@@ -11,3 +11,4 @@ include:
 theme: jekyll-theme-dinky
 title: Colin’s Weather Links
 remote_theme: pages-themes/dinky@v0.1.2
+google_analytics: G-P3QPP839NL
