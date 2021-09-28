@@ -27,7 +27,6 @@
 </div>
 <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 {% if site.google_analytics %}
-<script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
@@ -36,7 +35,6 @@
       gtag('js', new Date());
 
       gtag('config', '{{ site.google_analytics }}');
-    </script>
     </script>
 {% endif %}
 </body>
