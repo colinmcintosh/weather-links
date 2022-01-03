@@ -102,7 +102,7 @@ Websites/links listed below should be free and don't require a login unless othe
 ## Forecast Models
 - [HRRR Hourly Forecast Graphics](https://rapidrefresh.noaa.gov/hrrr/HRRR/Welcome.cgi?dsKey=hrrr_ncep_jet&domain=CentralCA)
 - [HRRR Subhourly Forecast Graphics](https://rapidrefresh.noaa.gov/hrrr/HRRRsubh/Welcome.cgi?dsKey=hrrr_subh_ncep_jet&domain=z1)
-- [RAP](https://rapidrefresh.noaa.gov/RAP/Welcome.cgi?dsKey=rap_jet&domain=conus)
+- [RAP](https://rapidrefresh.noaa.gov/RAP/Welcome.cgi)
 - [NWS Model Guidance](https://mag.ncep.noaa.gov/model-guidance-model-area.php) (All NWS Models)
 - [College of DuPage Model Viewer](https://weather.cod.edu/forecast/) (RAP, NAM, HRRR, GEM, GFS, GEFS)
 - [Weathernerds Model Viewer](https://www.weathernerds.org/home.html) (Canadian, ECENS, ECMWF, GFS, HRRR, HWRF, HMON, ICON, NAM, RAP, WRF-ARW)
