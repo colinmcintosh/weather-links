@@ -7,7 +7,6 @@ Websites/links listed below should be free and don't require a login unless othe
 
 ## Table of Contents
 
-- [Education & Reference](#education--reference)
 - [Discussions & Forecasts](#discussions--forecasts)
 - [Surface Maps](#surface-maps)
 - [Radar](#radar-1)
@@ -24,21 +23,8 @@ Websites/links listed below should be free and don't require a login unless othe
 - [Historical Climate Data](#historical-climate-data)
 - [Data Analysis Tools](#data-analysis-tools)
 - [Social Media](#social-media)
+- [Education & Reference](#education--reference)
 - [Glossary & Acronyms](#glossary--acronyms)
-
-## Education & Reference
-#### General
-- [How to Read Surface Weather Maps](https://www.weather.gov/jetstream/wxmaps)
-- [Weather Prediction Education and Resources (Jeff Haby)](http://www.theweatherprediction.com/)
-- [MetEd](https://www.meted.ucar.edu/training_detail.php)
-
-#### Radar
-- [Dual-Pol Radar Decision Aid Flipchart](http://www.wdtb.noaa.gov/courses/dualpol/Outreach/DualPol-Flipchart.pdf)
-- [Dual-Polarization Radar Principles and System Operations](https://training.weather.gov/wdtd/courses/dualpol/documents/DualPolRadarPrinciples.pdf)
-
-#### Satellite
-- [CIMSS ABI Quick Guides](http://cimss.ssec.wisc.edu/goes/GOESR_QuickGuides.html) (GOES Satellite Bands)
-- [CIRA Satellite Imagery Quick Guides](https://rammb.cira.colostate.edu/training/visit/quick_guides/) (includes many CIMSS guides)
 
 ## Discussions & Forecasts
 - [NWS Current Conditions & 7 Day Forecast](https://forecast.weather.gov/MapClick.php?lat=37.777120000000025&lon=-122.41963999999996)
@@ -186,6 +172,20 @@ Websites/links listed below should be free and don't require a login unless othe
 - [National Hurricane Center](https://twitter.com/NHC_Atlantic)
 - [NWS Mount Holly](https://twitter.com/NWS_MountHolly)
 - [NWS Bay Area](https://twitter.com/NWSBayArea)
+
+## Education & Reference
+#### General
+- [How to Read Surface Weather Maps](https://www.weather.gov/jetstream/wxmaps)
+- [Weather Prediction Education and Resources (Jeff Haby)](http://www.theweatherprediction.com/)
+- [MetEd](https://www.meted.ucar.edu/training_detail.php)
+
+#### Radar
+- [Dual-Pol Radar Decision Aid Flipchart](http://www.wdtb.noaa.gov/courses/dualpol/Outreach/DualPol-Flipchart.pdf)
+- [Dual-Polarization Radar Principles and System Operations](https://training.weather.gov/wdtd/courses/dualpol/documents/DualPolRadarPrinciples.pdf)
+
+#### Satellite
+- [CIMSS ABI Quick Guides](http://cimss.ssec.wisc.edu/goes/GOESR_QuickGuides.html) (GOES Satellite Bands)
+- [CIRA Satellite Imagery Quick Guides](https://rammb.cira.colostate.edu/training/visit/quick_guides/) (includes many CIMSS guides)
 
 ## Glossary & Acronyms
 - ABI = Advanced Baseline Imager (the primary image capture instrument on GOES satellites)
