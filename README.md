@@ -8,10 +8,10 @@ Websites/links listed below should be free and don't require a login unless othe
 ## Table of Contents
 
 - [Discussions & Forecasts](#discussions--forecasts)
+- [Forecast Models](#forecast-models)
 - [Surface Maps](#surface-maps)
 - [Radar](#radar-1)
 - [Satellite](#satellite-1)
-- [Forecast Models](#forecast-models)
 - [Drought](#drought)
 - [Lightning](#lightning)
 - [Fire](#fire)
@@ -30,6 +30,10 @@ Websites/links listed below should be free and don't require a login unless othe
 - [NWS Current Conditions & 7 Day Forecast](https://forecast.weather.gov/MapClick.php?lat=37.777120000000025&lon=-122.41963999999996)
 - [NWS Area Forecast Discussion](https://www.wrh.noaa.gov/total_forecast/getprod.php?new&prod=XXXAFDMTR&wfo=mtr)
 - [NWS Zone Forecast](https://www.wrh.noaa.gov/mtr/versprod.php?pil=ZFP&sid=MTR)
+- [NOAA National Forecast Charts](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php)
+    [[Day 1](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif)]
+    [[Day 2](https://www.wpc.ncep.noaa.gov/noaa/noaad2.gif)]
+    [[Day 3](https://www.wpc.ncep.noaa.gov/noaa/noaad3.gif)]
 - [SPC Outlook](https://www.spc.noaa.gov/products/outlook/)
     [[Day 1](https://www.spc.noaa.gov/products/outlook/day1otlk.html)]
     [[Day 2](https://www.spc.noaa.gov/products/outlook/day2otlk.html)]
@@ -51,8 +55,16 @@ Websites/links listed below should be free and don't require a login unless othe
 - [NWS Weather Alerts by State](https://alerts.weather.gov/) (scroll down)
 - [NWS Weather & Hazards Data Viewer](http://www.wrh.noaa.gov/map/?&zoom=5&scroll_zoom=false&center=37.59682400108367,-98.6572265625&boundaries=false,false,false,false,false,false,false,false,false&tab=observation&hazard=true&hazard_type=all&hazard_opacity=60&elements=temp,wind,gust&temp_filter=-80,130&gust_filter=0,150&rh_filter=0,100&elev_filter=-300,14000&precip_filter=0.01,18&obs_popup=false&obs_density=60&obs_provider=ALL)
 
+## Forecast Models
+- [HRRR Hourly Forecast Graphics](https://rapidrefresh.noaa.gov/hrrr/HRRR/Welcome.cgi?dsKey=hrrr_ncep_jet&domain=CentralCA)
+- [HRRR Subhourly Forecast Graphics](https://rapidrefresh.noaa.gov/hrrr/HRRRsubh/Welcome.cgi?dsKey=hrrr_subh_ncep_jet&domain=z1)
+- [RAP](https://rapidrefresh.noaa.gov/RAP/Welcome.cgi)
+- [NWS Model Guidance](https://mag.ncep.noaa.gov/model-guidance-model-area.php) (All NWS Models)
+- [College of DuPage Model Viewer](https://weather.cod.edu/forecast/) (RAP, NAM, HRRR, GEM, GFS, GEFS)
+- [Weathernerds Model Viewer](https://www.weathernerds.org/home.html) (Canadian, ECENS, ECMWF, GFS, HRRR, HWRF, HMON, ICON, NAM, RAP, WRF-ARW)
+- [AllisonHouse Maps](https://maps.allisonhouse.com/) **(Paid)**
+
 ## Surface Maps
-- [NOAA National Forecast Charts](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php) [[GIF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif)] [[PDF](https://www.wpc.ncep.noaa.gov/noaa/noaad1.pdf)]
 - [NOAA Current Surface Map](https://www.wpc.ncep.noaa.gov/html/sfc-zoom.php)
 - [NWS Current Surface Maps](https://www.weather.gov/oun/sfcmaps)
 - [OPC Unified Surface Analysis](https://ocean.weather.gov/unified_analysis.php)
@@ -84,15 +96,6 @@ Websites/links listed below should be free and don't require a login unless othe
 - [NASA Worldview](https://worldview.earthdata.nasa.gov/?v=-125.90494646571905,35.44708071161813,-115.5279995774611,40.70446356867694)
 - [NOAA Satellite Messages](https://www.ospo.noaa.gov/Operations/messages.html) (Operations Messages & Status)
 - [MODIS Image of the Day](https://modis.gsfc.nasa.gov/gallery/showall.php)
-
-## Forecast Models
-- [HRRR Hourly Forecast Graphics](https://rapidrefresh.noaa.gov/hrrr/HRRR/Welcome.cgi?dsKey=hrrr_ncep_jet&domain=CentralCA)
-- [HRRR Subhourly Forecast Graphics](https://rapidrefresh.noaa.gov/hrrr/HRRRsubh/Welcome.cgi?dsKey=hrrr_subh_ncep_jet&domain=z1)
-- [RAP](https://rapidrefresh.noaa.gov/RAP/Welcome.cgi)
-- [NWS Model Guidance](https://mag.ncep.noaa.gov/model-guidance-model-area.php) (All NWS Models)
-- [College of DuPage Model Viewer](https://weather.cod.edu/forecast/) (RAP, NAM, HRRR, GEM, GFS, GEFS)
-- [Weathernerds Model Viewer](https://www.weathernerds.org/home.html) (Canadian, ECENS, ECMWF, GFS, HRRR, HWRF, HMON, ICON, NAM, RAP, WRF-ARW)
-- [AllisonHouse Maps](https://maps.allisonhouse.com/) **(Paid)**
 
 ## Drought
 - [U.S. Drought Monitor](https://droughtmonitor.unl.edu/)
