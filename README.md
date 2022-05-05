@@ -151,6 +151,7 @@ Websites/links listed below should be free and don't require a login unless othe
 
 ## Sun
 - [EPA Hourly UV Index](https://enviro.epa.gov/enviro3/uv_hourly?zipcode=94131&city_name=&state_code=&minx=&maxx=&miny=&maxy=)
+- [NWS Daily UV Index](https://forecast.weather.gov/product.php?site=MTR&issuedby=CAC&product=UVI&format=CI&version=1&glossary=0)
 - [Gaisma Sunrise & Sunset](https://www.gaisma.com/en/location/san-francisco-california.html)
 - [NOAA Solar Calculator](https://www.esrl.noaa.gov/gmd/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2021) (Sunrise & Sunset)
 - [SunCalc](https://www.suncalc.org/)
