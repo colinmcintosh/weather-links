@@ -150,6 +150,7 @@ Websites/links listed below should be free and don't require a login unless othe
 - [NOAA Tide Predictions](https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290)
 
 ## Sun
+- [EPA Hourly UV Index](https://enviro.epa.gov/enviro3/uv_hourly?zipcode=94131&city_name=&state_code=&minx=&maxx=&miny=&maxy=)
 - [Gaisma Sunrise & Sunset](https://www.gaisma.com/en/location/san-francisco-california.html)
 - [NOAA Solar Calculator](https://www.esrl.noaa.gov/gmd/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2021) (Sunrise & Sunset)
 - [SunCalc](https://www.suncalc.org/)
@@ -197,6 +198,7 @@ Websites/links listed below should be free and don't require a login unless othe
 - CIRA = Cooperative Institute for Research in the Atmosphere
 - CPC = Climate Prediction Center
 - ECWMF = European Centre for Medium-Range Weather Forecasts
+- EPA = Environmental Protection Agency
 - GEFS = Global Ensemble Prediction System
 - GEM = Global Environmental Multiscale Model
 - GFS = Global Forecast System
