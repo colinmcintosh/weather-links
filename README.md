@@ -28,8 +28,8 @@ Websites/links listed below should be free and don't require a login unless othe
 
 ## Discussions & Forecasts
 - [NWS Current Conditions & 7 Day Forecast](https://forecast.weather.gov/MapClick.php?lat=37.777120000000025&lon=-122.41963999999996)
-- [NWS Area Forecast Discussion](https://www.wrh.noaa.gov/total_forecast/getprod.php?new&prod=XXXAFDMTR&wfo=mtr)
-- [NWS Zone Forecast](https://www.wrh.noaa.gov/mtr/versprod.php?pil=ZFP&sid=MTR)
+- [NWS Area Forecast Discussion](https://www.weather.gov/wrh/TextProduct?product=AFDMTR)
+- [NWS Zone Forecast](https://www.weather.gov/wrh/TextProduct?product=ZFPMTR&glossary=on)
 - [NOAA National Forecast Charts](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php)
     [[Day 1](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif)]
     [[Day 2](https://www.wpc.ncep.noaa.gov/noaa/noaad2.gif)]
