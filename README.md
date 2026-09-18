@@ -163,6 +163,7 @@ Websites/links listed below should be free and don't require a login unless othe
 
 ## Data Analysis Tools
 - [NOAA Weather and Climate Toolkit](https://www.ncdc.noaa.gov/wct/index.php) (Download/Windows/Mac/Linux)
+- [NOAA READY Moisture Calculator](https://www.ready.noaa.gov/READYmoistcal.php) (Includes absolute humidity in g/m³)
 
 ## Social Media
 #### Reddit
